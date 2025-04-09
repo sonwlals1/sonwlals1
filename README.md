@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## info
-영남대학교 학생
+영남대학교 컴퓨터공학전공 24학번
+
+## 🌱 I’m currently learning 
+C++, C, Python, etc.
+
